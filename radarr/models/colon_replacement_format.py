@@ -31,6 +31,7 @@ class ColonReplacementFormat(str, Enum):
     """
 
     DELETE = 'delete'
+    SMART = 'smart'
     DASH = 'dash'
     SPACEDASH = 'spaceDash'
     SPACEDASHSPACE = 'spaceDashSpace'
